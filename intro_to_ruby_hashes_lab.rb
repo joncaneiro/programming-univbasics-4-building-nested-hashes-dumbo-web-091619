@@ -40,7 +40,6 @@ def monopoly_with_third_tier
           key4: []
         },
         pieces: 4,
-        names:
      }
    }
   
